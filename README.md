@@ -1,14 +1,11 @@
 # Gruppenavn (hvad skal vi hedde)
 
 Group members:
-\
-Victor Eisner Rothe (lmv778)
-\
-Jonathan Bøttiger 
-\
-Rasmus Leth
+1. Victor Eisner Rothe (lmv778)
+2. Jonathan Bøttiger
+3. Rasmus Leth
 
-This repository contains:*
+This repository contains:
 1. Data project
 2. Model project
 3. Exam project
