@@ -2,7 +2,7 @@
 
 Group members:
 1. Victor Eisner Rothe (lmv778)
-2. Jonathan Bøttiger
+2. Jonathan Bøttiger (wng209)
 3. Rasmus Leth (mrv625)
 
 This repository contains:
