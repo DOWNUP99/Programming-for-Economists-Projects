@@ -3,7 +3,7 @@
 Group members:
 1. Victor Eisner Rothe (lmv778)
 2. Jonathan Bøttiger
-3. Rasmus Leth
+3. Rasmus Leth (mrv625)
 
 This repository contains:
 1. Data project
