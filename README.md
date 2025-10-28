@@ -9,7 +9,6 @@ Jonathan Bøttiger
 Rasmus Leth
 
 This repository contains:*
-
-Data project
-Model project
-Exam project
+1. Data project
+2. Model project
+3. Exam project
